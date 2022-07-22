@@ -1,0 +1,8 @@
+exec_path=C:\Program Files\Google\Chrome\Application\chrome.exe
+prof_path=C:\Users\chunde01\AppData\Local\Google\Chrome\User Data\Default
+metamask_password=qf112290
+deposit=0.001
+withdraw=0.0001
+token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxMDAwMzIwIiwiaWF0IjoiMTY1MzAxNjE2MSIsIm5iZiI6IjE2NTMwMTYxNjEiLCJleHAiOiIxNjUzMDIzMzYxIiwiaXNzIjoidm9sLmNvcmUub3duZXIiLCJhdWQiOiJ2b2wuY29yZSJ9.sr4rIwGXNUh00dobLMMqMkzcIXbC4GbvlXNm3C5GXac
+start_account=1
+end_account=2
